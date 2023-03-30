@@ -39,7 +39,7 @@ table {
 }
 
 
-.body {
+body {
     /* background-image: url("Vector06.png");
     background-size: cover; */
     position: relative;
@@ -109,7 +109,7 @@ h1 {
 }
 .figure-4 {
     position: absolute;
-    top: 48%;
+    top: 48.9%;
     left: 19.3%;
     z-index: 2;
 }
@@ -127,7 +127,7 @@ h1 {
 }
 .figure-7 {
     position: absolute;
-    top: 62.3%;
+    top: 63.5%;
     left: 19.8%;
     z-index: 0;
 }
@@ -157,19 +157,19 @@ h1 {
 }
 .figure-12 {
     position: absolute;
-    top: 61.4%;
+    top: 62.5%;
     left: 37.2%;
     z-index: 0;
 }
 .figure-13 {
     position: absolute;
-    top: 62.5%;
+    top: 63.6%;
     left: 38.8%;
     z-index: 0;
 }
 .figure-14 {
     position: absolute;
-    top: 61.7%;
+    top: 62.8%;
     left: 40.4%;
     z-index: 1;
 }
@@ -311,7 +311,7 @@ h1 {
 }
 .figure-34 {
     position: absolute;
-    top: 53%;
+    top: 53.9%;
     left: 39.1%;
     z-index: 0; 
 }
@@ -323,7 +323,7 @@ h1 {
 }
 .figure-36 {
     position: absolute;
-    top: 48.1%;
+    top: 49%;
     left: 48.5%;
     z-index: 0; 
 }
@@ -341,13 +341,13 @@ h1 {
 }
 .figure-39 {
     position: absolute;
-    top: 62.7%;
+    top: 63.8%;
     left: 58%;
     z-index: 6; 
 }
 .figure-40 {
     position: absolute;
-    top: 62%;
+    top: 63.3%;
     left: 59.4%;
     z-index: 6; 
 }
