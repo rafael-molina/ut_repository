@@ -293,7 +293,7 @@ h1 {
 }
 .figure-31 {
     position: absolute;
-    top: 68.5%;
+    top: 69.1%;
     left: 27.1%;
     z-index: 0; 
 }
@@ -319,7 +319,7 @@ h1 {
     position: absolute;
     top: 48%;
     left: 48.5%;
-    z-index: 0; 
+    z-index: 1; 
 }
 .figure-36 {
     position: absolute;
@@ -357,6 +357,108 @@ h1 {
     left: 58.3%;
     z-index: 0; 
 }
+.figure-42 {
+    position: absolute;
+    top: 48.2%;
+    left: 59.65%;
+    z-index: 0; 
+}
+.figure-43 {
+    position: absolute;
+    top: 66%;
+    left: 56.1%;
+    z-index: 0; 
+}
+.figure-44 {
+    position: absolute;
+    top: 66%;
+    left: 57%;
+    z-index: 0; 
+}
+.figure-45 {
+    position: absolute;
+    top: 65.5%;
+    left: 57.2%;
+    z-index: 0; 
+}
+.figure-46 {
+    position: absolute;
+    top: 67.7%;
+    left: 57%;
+    z-index: 0; 
+}
+.figure-47 {
+    position: absolute;
+    top: 67.2%;
+    left: 57.2%;
+    z-index: 0; 
+}
+.figure-48 {
+    position: absolute;
+    top: 67.2%;
+    left: 56.3%;
+    z-index: 0; 
+}
+.figure-49 {
+    position: absolute;
+    top: 67.7%;
+    left: 56.1%;
+    z-index: 0; 
+}
+.figure-50 {
+    position: absolute;
+    top: 68.9%;
+    left: 27.2%;
+    z-index: 0; 
+}
+.figure-51 {
+    position: absolute;
+    top: 67.2%;
+    left: 29%;
+    z-index: 0; 
+}
+.figure-52 {
+    position: absolute;
+    top: 70.2%;
+    left: 29.6%;
+    z-index: 6; 
+}
+.figure-53 {
+    position: absolute;
+    top: 45%;
+    left: 28.5%;
+    z-index: 6; 
+}
+.figure-54 {
+    position: absolute;
+    top: 46.7%;
+    left: 46.5%;
+    z-index: 6; 
+}
+.figure-55 {
+    position: absolute;
+    top: 46.4%;
+    left: 48%;
+    z-index: 6; 
+}
+.figure-56 {
+    position: absolute;
+    top: 47.6%;
+    left: 49.6%;
+    z-index: 1; 
+}
+.figure-57 {
+    position: absolute;
+    top: 47.05%;
+    left: 49.4%;
+    z-index: 0; 
+}
+.figure-58 {
+    position: absolute;
+    top: 47.3%;
+    left: 48.3%;
+    z-index: 0; 
+}
 
 .decoration-content-2 img {
     margin-left: 12px;
@@ -382,11 +484,13 @@ h1 {
 .carousel-card-4 {
     position: absolute;
     left: 298.7%;
+    z-index: 6;
     
 }
 .carousel-card-5 {
     position: absolute;
     left: 398.4%;
+    z-index: 6;
     
 }
 
@@ -408,6 +512,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
+
 
 }
 
@@ -558,3 +663,9 @@ li span {
     background-color: white;
 
 }
+
+.group-decoration-content img {
+    margin-left: 597px;
+    margin-top: 10px;
+}
+
