@@ -4,13 +4,12 @@ let currentItem = 0;
 
 const items = document.querySelectorAll(".carousel-card")
 
-const maxItems = items.length; // aqui em maxItems estou colocando a quantidade de elementos que tenho
+const maxItems = items.length; 
 
 controls.forEach(control => {
     control.addEventListener("click", () => {
         const isLeft = 
         control.classList.contains("button-prev");
-            console.log(isLeft);
         
         if(isLeft) {
             currentItem -= 1
