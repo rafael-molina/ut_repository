@@ -55,12 +55,6 @@ body {
 }
 
 
-.container h1 {
-    position: absolute;
-    top: 10%;
-    left: 25%;
-}
-
 .container img {
     position: relative;
     /* width: 100%; */
@@ -69,6 +63,9 @@ body {
 } 
 
 h1 {
+    position: absolute;
+    top: 10%;
+    left: 25%;
     font-family: 'Nunito', sans-serif;
     /* font-family: 'Ubuntu', sans-serif; */
     width: 30%;
@@ -689,6 +686,180 @@ li span {
     z-index: 6;
     
 }
+
+@media (max-width:1900px) {
+    .figure-9 {
+        top: 48.2%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-9 {
+        top: 48.4%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-12 {
+        top: 62.3%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-11 {
+        top: 47.4%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-14 {
+        top: 63.3%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-9 {
+        top: 48.4%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-12 {
+        top: 62.3%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-11 {
+        top: 47.2%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-14 {
+        top: 63.5%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-10 {
+        top: 46.9%;
+    }
+}
+
+@media (max-width:1884px) {
+    .figure-13 {
+        top: 63.6%;
+    }
+}
+@media (max-width:1871px) {
+    .figure-9 {
+        top: 48.6%;
+    }
+}
+
+@media (max-width:1871px) {
+    .figure-12 {
+        top: 62.1%;
+    }
+}
+
+@media (max-width:1871px) {
+    .figure-10 {
+        top: 47.1%;
+    }
+}
+
+@media (max-width:1871px) {
+    .figure-13 {
+        top: 63.5%;
+    }
+}
+@media (max-width:1855px) {
+    .figure-38 {
+        top: 47.7%;
+    }
+}
+
+@media (max-width:1855px) {
+    .figure-40 {
+        top: 63.6%;
+    }
+}
+@media (max-width:1855px) {
+    .figure-42 {
+        top: 48.5%;
+    }
+}
+
+@media (max-width:1366px) {
+    .container-h1 {
+        display: flex;
+        text-align: center;
+    }
+    .container-buttons {
+        left: -37.5%
+    }
+    .carousel-wrapper {
+        left: -5%
+    }
+    h1 {
+        padding-left: 45px;
+        width: 600px;
+    }
+    .figure-3 {
+        left: 6%;
+    }
+    .figure-4 {
+        left: 6%;
+
+    }
+    .figure-5 {
+        left:7.7%;
+        top: 47.5%;
+    }
+    .figure-6 {
+        left:8%;
+    }
+    .figure-7 {
+        left:7.5%;
+        top:63.2%;
+    }
+    .figure-9, .figure-10, .figure-11,
+    .figure-12, .figure-13, .figure-14,
+    .figure-15 {
+        margin-left: -70px;
+    }
+    .figure-9 {
+        left:35.6%;
+    }
+    .figure-12 {
+        left:35.6%
+    }
+    .figure-11 {
+        left:42%;
+        top: 48.8%
+    }
+    .figure-14 {
+        left:42%;
+        top:61.9%
+    }
+   
+}
+
+
+
+@media (max-width:390px) {
+    .container h1 {
+        width: 160%;
+        font-size:100px;
+        top: 40%;
+        left: 58%;
+    }
+}
+
+
+
 
 
 
