@@ -45,13 +45,13 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
-.container {
+.header-container {
     display: flex;
     justify-content: center;
     text-align: center;
 }
 
-.container img {
+.header-container img {
     position: relative;
     top: 54px;
     left:-19px
@@ -868,7 +868,7 @@ li span {
 }
 
 @media (max-width:1024px) {
-    .container img {
+    .header-container img {
         width: 100vw;
         height: 100vh;
         left: 10%;
@@ -970,7 +970,7 @@ li span {
 }
 
 @media (max-width:390px) {
-    .container h1 {
+    .header-container h1 {
         width: 160%;
         height: 100%;
         font-size:100px;
@@ -989,7 +989,7 @@ li span {
         top: 400px;
     }
 
-    .container img {
+    .header-container img {
         width: 1000vw;
         height: 100vh;
         left: 50%;
